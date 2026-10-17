@@ -1,4 +1,4 @@
-## Day 2: Internship Skill Demand Analysis
+## Day 2:  Skill Demand Analysis
 
 ### Overview
 Created a sample dataset containing 8 internship roles to explore the skills mentioned across different job profiles.
@@ -20,4 +20,4 @@ Python and SQL appeared frequently in the sample dataset, followed by Pandas and
 This project is under development. The current analysis uses a small, manually created sample dataset and does not represent the entire job market.
 
 ### Next Step
-Improve the job-skill matching system to identify matching and missing skills for internship seekers.
+Improve the job-skill matching system to identify matching and missing skills .
